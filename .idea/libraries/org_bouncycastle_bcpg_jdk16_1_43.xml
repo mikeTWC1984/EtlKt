@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.bouncycastle:bcpg-jdk16:1.43" type="repository">
+    <properties maven-id="org.bouncycastle:bcpg-jdk16:1.43" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpg-jdk16/1.43/bcpg-jdk16-1.43.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk16/1.43/bcprov-jdk16-1.43.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
